@@ -2,8 +2,8 @@
 ## Frontend Developer
 
 ### Contact Me
-<a href="https://linkedin.com/in/ensareken" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
-<a href="mailto:ensareken987@gmail.com" target="blank"><img src="https://image.flaticon.com/icons/png/512/732/732200.png" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ensareken" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
+<a href="mailto:ensareken987@gmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png" height="40" width="40" /></a>
 
 ### Tech I Use
 
