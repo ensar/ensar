@@ -1,5 +1,4 @@
 ### Hi , I am Ensar 👋
-## Frontend Developer
 
 ### Contact Me
 <a href="https://linkedin.com/in/ensareken" target="_blank">Linkedin</a>
