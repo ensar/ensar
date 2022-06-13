@@ -4,6 +4,9 @@
 <a href="https://linkedin.com/in/ensareken" target="_blank">Linkedin</a>
 <a href="mailto:ensareken987@gmail.com">Mail</a>
 
+## Medium
+<a href="https://medium.com/@ensareken"></a>
+
 ### Tech I Use
 
 <img align="left" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
