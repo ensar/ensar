@@ -4,8 +4,7 @@
 <a href="https://linkedin.com/in/ensareken" target="_blank">Linkedin</a>
 <a href="mailto:ensareken987@gmail.com">Mail</a>
 
-## Medium
-<a href="https://medium.com/@ensareken"></a>
+<a href="https://medium.com/@ensareken">Blog</a>
 
 ### Tech I Use
 
